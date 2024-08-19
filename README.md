@@ -71,12 +71,11 @@ My specialization is [back-end](https://en.wikipedia.org/wiki/Frontend_and_backe
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maksim-volosh&show_icons=true&theme=radical" height="180">
-&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksim-volosh&layout=compact&theme=radical" height="180">
 </div>
 
 ##
 <h3 align="center"> ❤️😁 Be happy guys, I wish you less legacy code 😂❤️ </h3>
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDlkanUxdXc4d3NlaXFuZTc2anh1bW5mNTF2Nmd3bHBkNXdmNzRyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlGmv4WqldO9c5y/giphy.webp" height="500">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDlkanUxdXc4d3NlaXFuZTc2anh1bW5mNTF2Nmd3bHBkNXdmNzRyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlGmv4WqldO9c5y/giphy.webp" height="auto" width="100%">
 </div>
