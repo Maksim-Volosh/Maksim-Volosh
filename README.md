@@ -66,8 +66,6 @@ My specialization is [back-end](https://en.wikipedia.org/wiki/Frontend_and_backe
   <img src="https://streak-stats.demolab.com?user=Maksim-Volosh&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="240" alt="streak graph"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maksim-volosh&show_icons=true&theme=radical" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksim-volosh&layout=compact&theme=radical" height="180">
