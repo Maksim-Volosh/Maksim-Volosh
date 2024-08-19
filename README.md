@@ -63,7 +63,7 @@ My specialization is [back-end](https://en.wikipedia.org/wiki/Frontend_and_backe
 <h3 align="left">🔥Statistics</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Maksim-Volosh&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="240" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Maksim-Volosh&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
 </div>
 
 <div align="center">
