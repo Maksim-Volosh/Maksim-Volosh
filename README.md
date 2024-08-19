@@ -41,7 +41,6 @@ My specialization is [back-end](https://en.wikipedia.org/wiki/Frontend_and_backe
   <a href="https://t.me/maksim_veb" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="26" alt="telegram logo"  />
   </a>
-  &nbsp;
   <a href="https://github.com/Maksim-Volosh/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=flat" height="26" alt="github logo"  />
   </a>
