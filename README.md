@@ -11,16 +11,18 @@
 <h3 align="left">🛠 Languages and Tools :</h3>
 <br>
 <p align="left"> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
+<a href="https://docs.pytest.org/en/stable/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="pytest" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>  
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>  
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
@@ -28,15 +30,32 @@
 
 <h3 align="left">👩‍💻 About me :</h3>
 
-My name is Maxim, and I have been programming in Python for more than two and a half years. My journey began back in 2018 when I came across a video clip on how to create HTML sites, and that's how it all started, then I took a Python course for beginners on [stepik.org](https://stepik.org/catalog). That's how my path into Python web development began.
+Hi, I’m Maksim 👋
+I’m a Python backend developer: I design APIs, think about architecture and production, and write code that’s meant to be maintained, not just “make it work”.
 
-I have already managed to implement several projects. In my projects, I pay special attention to working in a team using Git, where we coordinate our actions to successfully complete tasks. I am currently working on a new project "Ad Platforms". I am also considering the possibility of launching my own startup.
+**What I do:**
 
-My specialization is [back-end](https://en.wikipedia.org/wiki/Frontend_and_backend), I develop high-tech web applications, and also developed telegram bots on [aiogram](https://aiogram.dev/).
+* Python backend (FastAPI / Django), REST APIs
+* PostgreSQL + migrations, Redis caching
+* Docker, deployments, and everything around infrastructure
+* Testing with pytest, clean architecture (Clean Architecture, SOLID)
+* AI integrations/features, rate limiting
+* Telegram bots \ Aiogram
+
+**Projects I’m proud of:**
+
+**Connectly (Dating Platform API)** - backend for a dating platform + Telegram bot: swipes/matches, deck/inbox, AI features, caching, production-ready structure:
+
+→ [https://github.com/Maksim-Volosh/dating-platform-api](https://github.com/Maksim-Volosh/dating-platform-api)
+
+**Wildberries Catalog API** - API for parsing and searching Wildberries products: storage, filters, caching, rate limiting, tests, clean architecture:
+
+→ [https://github.com/Maksim-Volosh/wildberries-catalog-api](https://github.com/Maksim-Volosh/wildberries-catalog-api)
+
 
 ##
 
-<h3 align="left">Contact-us</h3>
+<h3 align="left">Contacts</h3>
 <div align="left">
   <a href="https://t.me/maksim_veb" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="26" alt="telegram logo"  />
@@ -47,10 +66,6 @@ My specialization is [back-end](https://en.wikipedia.org/wiki/Frontend_and_backe
   &nbsp;
   <a href="https://instagram.com/makcim_veb/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="26" alt="github logo"  />
-  </a>
-  &nbsp;
-  <a href="https://wa.me/qr/YXIB4L3Z7NBUN1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="26" alt="github logo"  />
   </a>
 </div>
 
